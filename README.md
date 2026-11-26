@@ -1,17 +1,16 @@
-## Hi there 👋
+# Hi, I'm Florian-Alin Vlăduț 👋
 
-<img width="572" height="628" alt="Screenshot 2026-11-26 190015" src="https://github.com/user-attachments/assets/184eff9e-abd6-4441-8cd2-854b1a7b988e" /> <img width="596" height="838" alt="Screenshot 2026-11-26 190001" src="https://github.com/user-attachments/assets/9a472370-8430-4a70-b031-4eb2e6ee8b91" />
+**AI & Python Developer** | **Automation & Cybersecurity**  
+Passionate about Machine Learning, Deep Learning, Software Engineering, and building practical, reliable systems.
 
+---
 
 ## 🏆 Certifications
 
-[![Certified AI & Python Developer](https://img.shields.io/badge/LINK_Academy-AI_%26_Python_Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.link-group.eu/certificate)
-[![NVIDIA Fundamentals of Deep Learning](https://img.shields.io/badge/NVIDIA-Fundamentals_of_Deep_Learning-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://learn.nvidia.com/certificates?id=qpoW_gKNRASg2Snbex4SJA)
-
-* **Fundamentals of Deep Learning** — *NVIDIA* (Dec 2025)  
-  [Verify Certificate](https://learn.nvidia.com/certificates?id=qpoW_gKNRASg2Snbex4SJA) | ID: `qpoW_gKNRASg2Snbex4SJA`
-* **Certified AI & Python Developer** — *LINK Academy* (Oct 2025)  
-  [Verify Certificate](https://www.link-group.eu/certificate) | Certificate No: `033581`
+| Certified AI & Python Developer — LINK Academy | Fundamentals of Deep Learning — NVIDIA |
+| :---: | :---: |
+| <a href="https://www.link-group.eu/certificate" target="_blank"><img src="https://github.com/user-attachments/assets/9a472370-8430-4a70-b031-4eb2e6ee8b91" height="380" alt="Certified AI & Python Developer - LINK Academy" /></a> | <a href="https://learn.nvidia.com/certificates?id=qpoW_gKNRASg2Snbex4SJA" target="_blank"><img src="https://github.com/user-attachments/assets/184eff9e-abd6-4441-8cd2-854b1a7b988e" height="380" alt="NVIDIA Fundamentals of Deep Learning" /></a> |
+| Certificate No: `033581` • [Verify](https://www.link-group.eu/certificate) | ID: `qpoW_gKNRASg2Snbex4SJA` • [Verify](https://learn.nvidia.com/certificates?id=qpoW_gKNRASg2Snbex4SJA) |
 <!--
 **VladutFlorian28/VladutFlorian28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
