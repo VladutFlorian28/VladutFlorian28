@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+## 🏆 Certifications
+
+[![Certified AI & Python Developer](https://img.shields.io/badge/LINK_Academy-AI_%26_Python_Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.link-group.eu/certificate)
+[![NVIDIA Fundamentals of Deep Learning](https://img.shields.io/badge/NVIDIA-Fundamentals_of_Deep_Learning-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://learn.nvidia.com/certificates?id=qpoW_gKNRASg2Snbex4SJA)
+
+* **Fundamentals of Deep Learning** — *NVIDIA* (Dec 2025)  
+  [Verify Certificate](https://learn.nvidia.com/certificates?id=qpoW_gKNRASg2Snbex4SJA) | ID: `qpoW_gKNRASg2Snbex4SJA`
+* **Certified AI & Python Developer** — *LINK Academy* (Oct 2025)  
+  [Verify Certificate](https://www.link-group.eu/certificate) | Certificate No: `033581`
 <!--
 **VladutFlorian28/VladutFlorian28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
